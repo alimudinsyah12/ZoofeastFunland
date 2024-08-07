@@ -40,10 +40,21 @@ Rizal Ardiansyah
 
 **Genre** : Education, Hyper casual
 
+# The Game🎮
+if you want the game, you can download on my itch.io in link below:
+https://alimudinsyah12.itch.io/zoofeast-funland 
+
+# How to Use ⚙️
+1. Download The File
+2. Find "Animal Foods.exe" and click it
+3. Controller : 
+-Press A to rotate left
+-Press B to rotate right
+-Press SpaceBar to shoot the food
+4. Enjoy the game
+5. 
 # Core Direction
 **-Tema Colorfull**
-
-**-Memperbanyak Puzzle Hewan untuk dipecahkan**
 
 # Target Platform 🎮
 **PC 💻**
@@ -52,15 +63,7 @@ Rizal Ardiansyah
 **Player will be feel the unique learning method and also fun experience.**
 
 # Gallery View🌆
-## Referensi Gameplay
-![1 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/2d65fb2c-987e-4d63-baf7-990e5f70996c)
-
-## Referensi Art Style
-![2 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/853bb4d9-d50d-448b-8640-0aff651e6707)
-
-## Referensi Level Design
-![3 rev image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/da5fc39a-e721-4496-8978-68b396e2974d)
-
-
-## Referensi Character
-![4 Ref image](https://github.com/alimudinsyah12/KancilFriendPuzzle/assets/118440652/5638368a-47fe-4ff6-9e2f-d8898d82d608)
+## Gameplay
+![Screenshot 2024-08-07 205611](https://github.com/user-attachments/assets/0876dad4-567a-4eb9-89ea-098939c5cd2b)
+![Screenshot 2024-08-07 205643](https://github.com/user-attachments/assets/86a48b4b-eea8-4087-8ebe-a43a2c09cbfe)
+![game over menu_Layout](https://github.com/user-attachments/assets/392c5358-5cc0-4408-9cef-c3963477afcb)
